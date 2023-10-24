@@ -15,3 +15,5 @@ def runTests() {
 def deployApplication() {
     echo 'Deploy'
 }
+
+return this
